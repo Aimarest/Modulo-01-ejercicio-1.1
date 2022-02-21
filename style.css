@@ -1,0 +1,18 @@
+/*El color de fondo de la página tiene que ser #f3f4f5
+El título tiene que tener asignado un tipo de letra Arial a 24px de tamaño y color de texto black.
+Para el texto de los párrafos, tendremos que usar la fuente Georgia a 18px de tamaño y color de texto #757575.*/
+
+
+body {
+    background-color:#f3f4f5;
+}
+h1 {
+    font-size: 24px;
+    font-family: Arial;
+    color: black;
+}
+p {
+    font-family: Georgia;
+    font-size: 18px;
+    color:#757575;
+}
